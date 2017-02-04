@@ -4,7 +4,7 @@
 $ npm install sensitive-words --save
 ```
 
-```js
+```javascript
 const {sensitiveWords} = require('sensitive-words')
 // ES2015 modules
 import {sensitiveWords} from 'sensitive-words'
