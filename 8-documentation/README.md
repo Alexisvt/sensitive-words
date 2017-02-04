@@ -1,6 +1,6 @@
 # Example
 
-```shell
+```sh
 $ npm install sensitive-words --save
 ```
 
