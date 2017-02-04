@@ -1,10 +1,10 @@
 # Example
 
-```
+```shell
 $ npm install sensitive-words --save
 ```
 
-```
+```js
 const {sensitiveWords} = require('sensitive-words')
 // ES2015 modules
 import {sensitiveWords} from 'sensitive-words'
