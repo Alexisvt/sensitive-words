@@ -1,3 +1,8 @@
+This repo is designed to accompany the related egghead.io video course:
+[https://egghead.io/courses/publish-javascript-packages-on-npm](https://egghead.io/courses/publish-javascript-packages-on-npm)
+
+---
+
 # Example
 
 ```sh
